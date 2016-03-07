@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,400);
+body {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+  margin: 1.5em 20em; }
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400; }
+
+span {
+  color: red; }
+
+/*# sourceMappingURL=main.css.map */
