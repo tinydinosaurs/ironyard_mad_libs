@@ -1,27 +1,27 @@
 // prompts player to introduce themself!
-name = prompt('What is your name?');
+var name = prompt('What is your name?');
 
 //prompts a noun input
-noun = prompt('Great! Hello, ' + name + '. Give me a noun!');
+var noun = prompt('Great! Hello, ' + name + '. Give me a noun!');
  
 //prompts a verb input 
-verb = prompt('Now give me a verb.');
+var verb = prompt('Now give me a verb.');
 
 //prompts an adverb input
-adverb = prompt('Ok, now an adverb');
+var adverb = prompt('Ok, now an adverb');
 
 //prompts an adjective input
-adjective = prompt('An adjective');
+var adjective = prompt('An adjective');
 
-secondAdjective = prompt('Another adjective');
+var secondAdjective = prompt('Another adjective');
 
-secondNoun = prompt('Another noun');
+var secondNoun = prompt('Another noun');
 
-thirdNoun = prompt('Yet another noun');
+var thirdNoun = prompt('Yet another noun');
 
-secondVerb = prompt('Another verb');
+var secondVerb = prompt('Another verb');
 
-exclamation = prompt('Finally, an exclamation');
+var exclamation = prompt('Finally, an exclamation');
 
 
 
