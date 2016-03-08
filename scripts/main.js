@@ -1,17 +1,17 @@
 // prompts player to introduce themself!
-name = prompt('What is your name?');
+var name = prompt('What is your name?');
 
 //prompts a noun input
-noun = prompt('Great! Hello, ' + name + '. Give me a noun!');
+var noun = prompt('Great! Hello, ' + name + '. Give me a noun!');
  
 //prompts a verb input 
-verb = prompt('Now give me a verb.');
+var verb = prompt('Now give me a verb.');
 
 //prompts an adverb input
-adverb = prompt('Ok, now an adverb');
+var adverb = prompt('Ok, now an adverb');
 
 //prompts an adjective input
-adjective = prompt('And finally an adjective');
+var adjective = prompt('And finally an adjective');
 
 
 //writes the crazy story of craziness
